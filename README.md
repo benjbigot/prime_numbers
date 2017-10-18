@@ -27,6 +27,11 @@ This will install the following packages
     redis==2.10.6
     web.py==0.38
 
+For python3, you may have to install web.py using easy_install
+
+    :~$ easy_install web.py
+    :~$ pip install redis
+
 # Redis requirement
 
 Install Redis client and server for your plateform from [https://redis.io/](https://redis.io/).
